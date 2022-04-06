@@ -1,0 +1,12 @@
+{
+"companyName": "WhaleeTapps",
+"productName": "Finesse: Shadow Warrior",
+"dataUrl": "Shadow Warrior v1.0 web.data.unityweb",
+"wasmCodeUrl": "Shadow Warrior v1.0 web.wasm.code.unityweb",
+"wasmFrameworkUrl": "Shadow Warrior v1.0 web.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000"
+}
